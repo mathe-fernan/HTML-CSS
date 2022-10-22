@@ -1,0 +1,13 @@
+@charset "UTF-8";
+body {
+    background-color: khaki;
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+}
+h1 {
+    color: rgb(252, 90, 90);
+}
+p{
+    text-align: justify;
+    text-align: center;
+}

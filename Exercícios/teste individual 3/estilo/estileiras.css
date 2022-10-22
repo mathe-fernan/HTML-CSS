@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+body{
+    background-color: #FAC35A;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+}
+h1{
+    color: #4190FA;
+    text-align: center;
+}
+h2{
+    color: #FA2BB3;
+    background-color: black;
+    
+}
+#subtitulo-um{
+    width: 1300px;
+    margin: auto;
+}
+h2:hover{
+    color: rgb(48, 48, 48);
+}
+hr{
+    color: #62FA50;
+
+}
+img{
+    width: 450px;
+}

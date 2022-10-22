@@ -1,0 +1,19 @@
+@charset "UTF-8";
+body{
+    background-color: rgb(255, 255, 194);
+}
+h1{
+    font-family: Century Schoolbook;
+    color: rgb(82, 45, 45);
+    text-align: center;
+}
+h2{
+    font-family: Century Schoolbook;
+    color:rgb(140, 83, 204);
+    text-align: center;
+}
+p{
+    font-family: Century Schoolbook;
+    text-align: center;
+    font-weight: 700;
+}
