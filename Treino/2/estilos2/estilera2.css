@@ -12,6 +12,7 @@ body{
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: scroll;
 }
 h1{
     background-color: white;
