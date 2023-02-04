@@ -23,11 +23,11 @@ header h1{
     text-align: center;
     display: block;
     padding: 10px;
-    cursor: pointer;
 }
 #burguer:hover{
     background-color: white;
     color: black;
+    cursor: pointer;
 }
 menu{
     display: none;
